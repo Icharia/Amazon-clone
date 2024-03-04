@@ -2,7 +2,6 @@
 
 ### _Amazon Clone built using ReactJs and Firebase hope you like it. Tweak it and use it !!_
 
-### Learned from : Clever Programmer :link: https://youtu.be/1_IYL9ZMR_Y
 
 ### Link :link: https://amazon-reactjs-clone.netlify.app/
 
